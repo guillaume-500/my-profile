@@ -1,0 +1,50 @@
+body {background: rgb(230,230,230);
+color: rgb(46,88,99);
+font-family: 'Roboto', sans-serif;
+letter-spacing: 2px;}
+
+h1 {color: rgb(0,0,0);
+ font-family: 'Roboto', sans-serif;
+font-weight: 100;
+letter-spacing: 4px;
+font-size: 20px;}
+
+a{ text-decoration: none;
+color: rgb(178,146,210);
+font-weight: bold; }
+
+a:hover {color:yellow;}
+
+
+#image {border-radius: 50%}
+
+#page {border: 5px solid;
+	background: white;
+	padding: 40px;
+	border-radius: 2%;
+	box-shadow: 0 10px 30px ;
+	content: 10px;
+	margin: 20px 0px;
+	text-align: center;}
+
+.card-white {border: 5px solid;
+	background: white;
+	padding: 40px;
+	border-radius: 2%;
+	box-shadow: 0 10px 30px ;
+	content: 10px;
+	margin: 20px 0px;
+	text-align: center;}
+
+
+.img-circle {border-radius: 50px}
+
+.btn-blue {background-color: blue;
+color: white;
+padding: 20 px 20 px;
+border-radius: 4px;}
+
+.btn-blue {background-color:blue
+color: yellow;}
+
+.list-inline i
